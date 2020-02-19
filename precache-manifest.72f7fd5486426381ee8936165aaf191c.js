@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5131bdb60e94b2af86d44bf5d7c7ef6c",
+    "revision": "370aa77f0d01932d2dec0b9c341b2652",
     "url": "/blog/index.html"
   },
   {
-    "revision": "819d86016817aab35a3e",
+    "revision": "1957d63853bb0abc5e74",
     "url": "/blog/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blog/static/js/2.dcfc4e55.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "819d86016817aab35a3e",
-    "url": "/blog/static/js/main.c313d386.chunk.js"
+    "revision": "1957d63853bb0abc5e74",
+    "url": "/blog/static/js/main.a398f857.chunk.js"
   },
   {
     "revision": "cbfd563c8600f0c401a0",
     "url": "/blog/static/js/runtime-main.3e812e36.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/blog/static/media/logo.5d5d9eef.svg"
+    "revision": "a613647d2238d475c16403d330f47ad0",
+    "url": "/blog/static/media/shooting-star.a613647d.png"
   }
 ]);
