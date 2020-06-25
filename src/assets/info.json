@@ -1,131 +1,134 @@
 [
-    {
-        "id": "personaltasks",
-        "title":"Personal Tasks",
-        "thumb":"https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/thumbs%2F01.png?alt=media&token=b73e0c56-0229-4d51-8be0-273175704b1d",
-        "type":"Mobile Design",
-        "subtitle":"Uma aplicação mobile moderna e simplificada para exibir a lista de atividades de um usuário.",
-        "detail": "O design de Personal Tasks foi desenvolvido com o intuito de ser simples, porém moderno. Composto por tonalidades de verde e componentes arredondados. O logotipo foi construído com a inclusão de alguns círculos, tendo como inspiração o balão de pensamentos comumente utilizado em quadrinhos. Levando-se em consideração que o modelo foi pensado para uma aplicação de teste, o principal objetivo foi apresentar ao usuário as funções disponíveis de maneira simples e intuitiva ao usuário, com uma experiência de usuário agradável.",
-        "colors": [
-            "#00808F",
-            "#1D8E9F",
-            "#31B2BE",
-            "#24D4E1",
-            "#707070"
-        ],
-        "screens": ["https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fpersonal-notes%2F01.png?alt=media&token=45814b90-df05-4a71-a1db-c9c1df9220cc",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fpersonal-notes%2F02.png?alt=media&token=8257b4c0-36cb-490b-b6fc-1b055abe7beb",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fpersonal-notes%2F03.png?alt=media&token=4cd1f74f-c5f6-4fc3-9804-8b9d29ed1016",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fpersonal-notes%2F04.png?alt=media&token=14ecdc8e-7c72-467d-95fd-976bc0ce8dad",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fpersonal-notes%2F05.png?alt=media&token=dea7e6ce-a927-4e2d-97b6-9e7a14b06d36",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fpersonal-notes%2F06.png?alt=media&token=7d03f07c-8d2a-4124-9a68-7f6fb38758bd",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fpersonal-notes%2F07.png?alt=media&token=474257f9-2c92-4711-b1fa-53d8baa10442",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fpersonal-notes%2F08.png?alt=media&token=030f0323-c9e6-49b6-90ec-7478df79b9df"],
-        "icons": ["https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2FpersonalTasks%2Ficon.png?alt=media&token=b8de4a75-4bcd-41a1-ad45-185263cd1083",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2FpersonalTasks%2FnoFile.png?alt=media&token=111e2d85-8e8d-44ff-bbf8-fb78b1052669",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2FpersonalTasks%2Fspheres.png?alt=media&token=73b25a71-1e29-4150-a562-867d74e473d1"]
-        },
-    {
-        "id": "creace",
-        "title":"Crea-CE",
-        "thumb":"https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/thumbs%2F02.png?alt=media&token=b7e12e95-1432-4aa5-b640-10e99f779b8a",
-        "type":"Mobile Design",
-        "subtitle":"Um design desenvolvido para a aplicação do Conselho Regional de Engenharia e Agronomia do Ceará(CREA-CE). A aplicação encontra-se disponível para dispositivos IOS e Android.",
-        "detail": "Para o desenvolvimento do design utilizado pelo aplicativo, optou-se pela utilização do padrão de cores do Conselho. A utilização do logo e minerva já existentes e utilizadas pelo conselho encontram-se presentes na aplicação. Levando-se em consideração a elevada quantidade de funcionalidades da aplicação, optou-se por um menu subdividido em categorias, sendo possível navegar nas opções com um simples toque. Os botões foram construídos em azul, com bordas arredondadas e detalhes em branco. Além disso, são constituídos por um ícone e um texto, sendo de simples utilização.",
-        "colors": [
-            "#050e8b",
-            "#030E91",
-            "#ff8f1f",
-            "#f8d753",
-            "#f9f9f9"
-        ],
-        "screens":["https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fcrea-ce%2FIMG_8294.PNG?alt=media&token=f9cc11bb-f1c6-4a0f-adec-9cb99e6b6459",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fcrea-ce%2FIMG_8293.PNG?alt=media&token=58970d55-0d68-4735-a998-f855f4e8a82d",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fcrea-ce%2FIMG_8291.PNG?alt=media&token=2b4b138f-effa-4fcb-9331-39fc8119855b",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fcrea-ce%2FIMG_8290.PNG?alt=media&token=834d6475-1298-45ab-9d48-fd3155f7dddb",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fcrea-ce%2FIMG_8289.PNG?alt=media&token=763c4c0d-1b5e-4023-91bd-feb4c72351c8",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fcrea-ce%2FIMG_8288.PNG?alt=media&token=4b2c7538-dd5c-4e7f-9ad9-ad3323d0b89b",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fcrea-ce%2FIMG_8287.PNG?alt=media&token=fdde9f7c-18a4-4753-b961-187b1a6768d6",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fcrea-ce%2FIMG_8286.PNG?alt=media&token=80686558-e99f-4bec-81bd-1c76d5128543"],
-        "icons": ["https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2FcreaCe%2FWhatsApp%20Image%202020-02-28%20at%2009.39.06.jpeg?alt=media&token=2dc0bae9-ca6c-4d1a-bfa1-9284cd9cc898",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2FcreaCe%2Ffilenotfound2.png?alt=media&token=0f178e18-5b78-4711-b25f-f82b86554300",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2FcreaCe%2Floading.gif?alt=media&token=62355299-8715-4f61-9a20-38f1e82dc610",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2FcreaCe%2FnoConnection4.png?alt=media&token=d34b68e7-974a-4c34-b122-aa8ed6fb982a",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2FcreaCe%2F500erroricon.png?alt=media&token=c3021270-c5ac-45ca-9224-2cebadea1237"]
-    },
-    {
-        "id": "logicgaming",
-        "title":"Logic Gaming",
-        "thumb":"https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/thumbs%2F03.png?alt=media&token=0aa8c9d5-ad5e-4efd-806f-c626fe96194b",
-        "type":"Game Design and Development",
-        "subtitle":"Um jogo de cartas desenvolvido para aumentar o interesse de estudantes na área de lógica matemática",
-        "detail": "O desenvolvimento do Logic Gaming consistiu na produção de um jogo físico, contendo cartas, objetivando auxiliar no ensino de lógica matemática a estudantes de graduação da área de tecnologia. Para o desenvolvimento do design, optou-se por um estilo moderno e tecnológico, remetendo aos símbolos lógicos existentes e presentes no jogo. A utilização de peças de quebra cabeça na caixa e cartas remete ao pensamento lógico necessário para utilizar o jogo. As cartas de proposições foram constituídas com uma fonte clara e legível aos usuários.",
-        "colors": [
-            "#030c49",
-            "#202d65",
-            "#0000d0",
-            "#3b8aff",
-            "#9cc1ff"
-        ],
-        "arts": ["https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Flogic-gaming%2Fcards%2Ffundocarta.png?alt=media&token=8d14348f-2c67-45aa-94a8-0f4cd3bf32c1",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Flogic-gaming%2Fcards%2F01-ou.png?alt=media&token=2e016aa1-ec93-437d-83da-0c395f76ccc7",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Flogic-gaming%2Fcards%2F02-e.png?alt=media&token=86a9ec1c-4d56-46a2-8ae7-011028f56aab",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Flogic-gaming%2Fcards%2F04-seentao.png?alt=media&token=40bd287e-dd7b-4b2b-9241-be7e3b91b193",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Flogic-gaming%2Fcards%2F05-sesomentese.png?alt=media&token=10f0ce76-86af-4278-af37-e89d3f2cdc41",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Flogic-gaming%2Fcards%2F06-ouou.png?alt=media&token=7b3a877c-633b-472d-83dc-77706e52a1ba",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Flogic-gaming%2Fcards%2F07-verdadeiro.png?alt=media&token=96068d9f-d87d-491d-b13c-1e2bb3280f19",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Flogic-gaming%2Fcards%2F08-falso.png?alt=media&token=f2d62561-7b31-4fc5-a311-373aa2de824e",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Flogic-gaming%2Fcards%2Fproposiçoes33.png?alt=media&token=17d72de3-1243-4caa-9b1b-f7685af3cfc3"]
-    },
-    {
-        "id": "testevocacional",
-        "title":"Teste Vocacional",
-        "thumb":"https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/thumbs%2F04.png?alt=media&token=59ae274c-3aec-4a21-ae3d-d638c8c95bb5",
-        "type":"Mobile Design",
-        "subtitle":"Uma aplicação mobile desenvolvida com React-Native visando auxiliar estudantes a escolherem uma área de atuação.",
-        "detail": "A aplicação de teste vocacional foi desenvolvida em um grupo de estudo de aplicações mobile no Centro Universitário Christus - UniChristus. O intuito era produzir um teste vocacional em versão mobile, com algumas funcionalidades que viessem a ser interessantes aos estudantes do pré vestibular. Atualmente apenas o teste encontra-se implementado, com 4 possíveis resultados: Saúde, Ciências Humanas, Exatas e Ciências Sociais. Em relação ao design, a temática foi baseada no céu e nuvens, incluindo tonalidades calmas de azul. A imagem utilizada na tela de login foi produzida com aquarela manualmente e melhorada com softwares de edição.",
-        "colors": [
-            "#2D97C7",
-            "#19BEF2",
-            "#00CDF9",
-            "#F2F2F2",
-            "#8AC5E1"
-        ],
-        "screens":["https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fteste-vocacional%2F01.jpeg?alt=media&token=80e1bda1-5479-41d3-b060-c87c19d8b246",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fteste-vocacional%2F02.jpeg?alt=media&token=389cad3c-4896-4321-94b4-69c44107fb4f",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fteste-vocacional%2F03.jpeg?alt=media&token=3cb92614-0717-4967-a7cd-de667a4d19c8",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fteste-vocacional%2F04.jpeg?alt=media&token=30a4e440-11e9-495d-87c3-4621071a8f0f",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fteste-vocacional%2F05.jpeg?alt=media&token=c97b5d3a-6119-47e6-93db-3cb58cb1f87f",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fteste-vocacional%2F06.jpeg?alt=media&token=251aba16-8a6d-4165-bbee-3f70443b32a3",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fteste-vocacional%2F07.jpeg?alt=media&token=c3aec289-4c3a-4039-8a5e-6bb5c72ac8a4",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fteste-vocacional%2F08.jpeg?alt=media&token=5d48f3ad-00b4-41be-b41d-223e70414eb6"],
-        "icons": ["https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2FTeste-vocacional%2F01.png?alt=media&token=e5801cae-3528-499e-b6ce-723efceddadc",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2FTeste-vocacional%2F02.png?alt=media&token=d8147c8f-a8c1-495b-9fb4-a86430b9bc7f",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2FTeste-vocacional%2F03.png?alt=media&token=77f9429e-4928-406f-b932-e27f5b535e23",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2FTeste-vocacional%2F04.png?alt=media&token=07dd663f-4117-4c7c-884f-14a7aea219b3"]
-    },
-    {
-        "id": "storemanager",
-        "title":"Store Manager",
-        "thumb":"https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/thumbs%2F05.png?alt=media&token=14d93317-2a3b-4b5b-971f-4193d06e0dda",
-        "type":"Mobile Design",
-        "subtitle":"Um aplicativo mobile projetado para cadastrar os estabelecimentos de um usuário com localização.",
-        "detail": "A aplicação Store Manager foi projetada para um teste de desenvolvimento de software, cuja funcionalidade baseava-se em gerir os estabelecimentos pertencentes ao usuário. É possível cadastrar os estabelecimentos preenchendo alguns dados e inserindo a sua localização. Ao logar, é possível visualizar a lista de estabelecimentos inseridos, visualizando-se mais detalhes ao clicar. É possível editar e excluir o estabelecimento, com modais de confirmação. Além disso, foi desenvolvida uma tela para a funcionalidade que objetiva exibir os estabelecimentos presentes em um raio determinado de forma simplificada ao usuário.",
-        "colors": [
-            "#18276C",
-            "#20357E",
-            "#394894",
-            "#FDC224",
-            "#FFCD3E"
-        ],
-        "screens":["https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fstore-manager%2Fscreens%2F01.png?alt=media&token=f7e0f143-b5db-40fe-a8f0-b8f198c5e50b",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fstore-manager%2Fscreens%2F02.png?alt=media&token=960cfb0f-2d9e-45fd-91ff-a684aa7ccb28",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fstore-manager%2Fscreens%2F03.png?alt=media&token=a9e57863-7d22-43c2-b8a3-25fde1a01055",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fstore-manager%2Fscreens%2F04.png?alt=media&token=b9736055-6719-48fe-9aa4-9141da6ea11b",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fstore-manager%2Fscreens%2F05.png?alt=media&token=ddbe8be0-4c71-4dfa-b10d-c2f9952650af",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fstore-manager%2Fscreens%2F06.png?alt=media&token=f544ce29-f0c9-4f15-a25e-15640e60103f"],
-        "icons": ["https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2Fstore-manager%2F01.png?alt=media&token=dca2490b-6da2-4ceb-8677-80bb834fe15f",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2Fstore-manager%2F02.png?alt=media&token=2a0eb04d-a273-4733-940e-df9ebf2b6448",
-        "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2Fstore-manager%2F03.png?alt=media&token=9150ffd3-9575-435d-a4e4-0412e17c83d4"]
-    }
+  {
+    "id": "coronastatus",
+    "title": "Corona Status",
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/thumbs%2F06.png?alt=media&token=8b5b6424-3f55-42e0-970d-0590e0e2d8d6",
+    "type": "Mobile Design and Mobile Development",
+    "subtitle": "Uma aplicação mobile desenvolvida com React-Native para o acompanhamento dos casos de Corona Vírus no Mundo.",
+    "detail": "A aplicação Corona Status foi criada com intuito de visualizar os dados referentes ao número de casos, mortes e recuperados pela patologia em todo o mundo, com os dados divididos por país. Além disso, é possível visualizar os dados dos estados do Brasil. A logo foi desenhada e colorida digitalmente.",
+    "colors": ["#FF8383", "#FF9E80", "#A9A1FF", "#F3F3F3", "#4D4D4D"],
+    "screens": [
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fcorona-status%2F01.png?alt=media&token=84ba00de-ee32-41ea-ad1f-4a62449e7df7"
+    ],
+    "icons": [
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/thumbs%2F06.png?alt=media&token=8b5b6424-3f55-42e0-970d-0590e0e2d8d6"
+    ]
+  },
+  {
+    "id": "personaltasks",
+    "title": "Personal Tasks",
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/thumbs%2F01.png?alt=media&token=b73e0c56-0229-4d51-8be0-273175704b1d",
+    "type": "Mobile Design",
+    "subtitle": "Uma aplicação mobile moderna e simplificada para exibir a lista de atividades de um usuário.",
+    "detail": "O design de Personal Tasks foi desenvolvido com o intuito de ser simples, porém moderno. Composto por tonalidades de verde e componentes arredondados. O logotipo foi construído com a inclusão de alguns círculos, tendo como inspiração o balão de pensamentos comumente utilizado em quadrinhos. Levando-se em consideração que o modelo foi pensado para uma aplicação de teste, o principal objetivo foi apresentar ao usuário as funções disponíveis de maneira simples e intuitiva ao usuário, com uma experiência de usuário agradável.",
+    "colors": ["#00808F", "#1D8E9F", "#31B2BE", "#24D4E1", "#707070"],
+    "screens": [
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fpersonal-notes%2F01.png?alt=media&token=45814b90-df05-4a71-a1db-c9c1df9220cc",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fpersonal-notes%2F02.png?alt=media&token=8257b4c0-36cb-490b-b6fc-1b055abe7beb",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fpersonal-notes%2F03.png?alt=media&token=4cd1f74f-c5f6-4fc3-9804-8b9d29ed1016",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fpersonal-notes%2F04.png?alt=media&token=14ecdc8e-7c72-467d-95fd-976bc0ce8dad",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fpersonal-notes%2F05.png?alt=media&token=dea7e6ce-a927-4e2d-97b6-9e7a14b06d36",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fpersonal-notes%2F06.png?alt=media&token=7d03f07c-8d2a-4124-9a68-7f6fb38758bd",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fpersonal-notes%2F07.png?alt=media&token=474257f9-2c92-4711-b1fa-53d8baa10442",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fpersonal-notes%2F08.png?alt=media&token=030f0323-c9e6-49b6-90ec-7478df79b9df"
+    ],
+    "icons": [
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2FpersonalTasks%2Ficon.png?alt=media&token=b8de4a75-4bcd-41a1-ad45-185263cd1083",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2FpersonalTasks%2FnoFile.png?alt=media&token=111e2d85-8e8d-44ff-bbf8-fb78b1052669",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2FpersonalTasks%2Fspheres.png?alt=media&token=73b25a71-1e29-4150-a562-867d74e473d1"
+    ]
+  },
+  {
+    "id": "creace",
+    "title": "Crea-CE",
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/thumbs%2F02.png?alt=media&token=b7e12e95-1432-4aa5-b640-10e99f779b8a",
+    "type": "Mobile Design",
+    "subtitle": "Um design desenvolvido para a aplicação do Conselho Regional de Engenharia e Agronomia do Ceará(CREA-CE). A aplicação encontra-se disponível para dispositivos IOS e Android.",
+    "detail": "Para o desenvolvimento do design utilizado pelo aplicativo, optou-se pela utilização do padrão de cores do Conselho. A utilização do logo e minerva já existentes e utilizadas pelo conselho encontram-se presentes na aplicação. Levando-se em consideração a elevada quantidade de funcionalidades da aplicação, optou-se por um menu subdividido em categorias, sendo possível navegar nas opções com um simples toque. Os botões foram construídos em azul, com bordas arredondadas e detalhes em branco. Além disso, são constituídos por um ícone e um texto, sendo de simples utilização.",
+    "colors": ["#050e8b", "#030E91", "#ff8f1f", "#f8d753", "#f9f9f9"],
+    "screens": [
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fcrea-ce%2FIMG_8294.PNG?alt=media&token=f9cc11bb-f1c6-4a0f-adec-9cb99e6b6459",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fcrea-ce%2FIMG_8293.PNG?alt=media&token=58970d55-0d68-4735-a998-f855f4e8a82d",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fcrea-ce%2FIMG_8291.PNG?alt=media&token=2b4b138f-effa-4fcb-9331-39fc8119855b",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fcrea-ce%2FIMG_8290.PNG?alt=media&token=834d6475-1298-45ab-9d48-fd3155f7dddb",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fcrea-ce%2FIMG_8289.PNG?alt=media&token=763c4c0d-1b5e-4023-91bd-feb4c72351c8",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fcrea-ce%2FIMG_8288.PNG?alt=media&token=4b2c7538-dd5c-4e7f-9ad9-ad3323d0b89b",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fcrea-ce%2FIMG_8287.PNG?alt=media&token=fdde9f7c-18a4-4753-b961-187b1a6768d6",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fcrea-ce%2FIMG_8286.PNG?alt=media&token=80686558-e99f-4bec-81bd-1c76d5128543"
+    ],
+    "icons": [
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2FcreaCe%2FWhatsApp%20Image%202020-02-28%20at%2009.39.06.jpeg?alt=media&token=2dc0bae9-ca6c-4d1a-bfa1-9284cd9cc898",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2FcreaCe%2Ffilenotfound2.png?alt=media&token=0f178e18-5b78-4711-b25f-f82b86554300",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2FcreaCe%2Floading.gif?alt=media&token=62355299-8715-4f61-9a20-38f1e82dc610",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2FcreaCe%2FnoConnection4.png?alt=media&token=d34b68e7-974a-4c34-b122-aa8ed6fb982a",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2FcreaCe%2F500erroricon.png?alt=media&token=c3021270-c5ac-45ca-9224-2cebadea1237"
+    ]
+  },
+  {
+    "id": "logicgaming",
+    "title": "Logic Gaming",
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/thumbs%2F03.png?alt=media&token=0aa8c9d5-ad5e-4efd-806f-c626fe96194b",
+    "type": "Game Design and Development",
+    "subtitle": "Um jogo de cartas desenvolvido para aumentar o interesse de estudantes na área de lógica matemática",
+    "detail": "O desenvolvimento do Logic Gaming consistiu na produção de um jogo físico, contendo cartas, objetivando auxiliar no ensino de lógica matemática a estudantes de graduação da área de tecnologia. Para o desenvolvimento do design, optou-se por um estilo moderno e tecnológico, remetendo aos símbolos lógicos existentes e presentes no jogo. A utilização de peças de quebra cabeça na caixa e cartas remete ao pensamento lógico necessário para utilizar o jogo. As cartas de proposições foram constituídas com uma fonte clara e legível aos usuários.",
+    "colors": ["#030c49", "#202d65", "#0000d0", "#3b8aff", "#9cc1ff"],
+    "arts": [
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Flogic-gaming%2Fcards%2Ffundocarta.png?alt=media&token=8d14348f-2c67-45aa-94a8-0f4cd3bf32c1",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Flogic-gaming%2Fcards%2F01-ou.png?alt=media&token=2e016aa1-ec93-437d-83da-0c395f76ccc7",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Flogic-gaming%2Fcards%2F02-e.png?alt=media&token=86a9ec1c-4d56-46a2-8ae7-011028f56aab",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Flogic-gaming%2Fcards%2F04-seentao.png?alt=media&token=40bd287e-dd7b-4b2b-9241-be7e3b91b193",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Flogic-gaming%2Fcards%2F05-sesomentese.png?alt=media&token=10f0ce76-86af-4278-af37-e89d3f2cdc41",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Flogic-gaming%2Fcards%2F06-ouou.png?alt=media&token=7b3a877c-633b-472d-83dc-77706e52a1ba",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Flogic-gaming%2Fcards%2F07-verdadeiro.png?alt=media&token=96068d9f-d87d-491d-b13c-1e2bb3280f19",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Flogic-gaming%2Fcards%2F08-falso.png?alt=media&token=f2d62561-7b31-4fc5-a311-373aa2de824e",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Flogic-gaming%2Fcards%2Fproposiçoes33.png?alt=media&token=17d72de3-1243-4caa-9b1b-f7685af3cfc3"
+    ]
+  },
+  {
+    "id": "testevocacional",
+    "title": "Teste Vocacional",
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/thumbs%2F04.png?alt=media&token=59ae274c-3aec-4a21-ae3d-d638c8c95bb5",
+    "type": "Mobile Design and Mobile Development",
+    "subtitle": "Uma aplicação mobile desenvolvida com React-Native visando auxiliar estudantes a escolherem uma área de atuação.",
+    "detail": "A aplicação de teste vocacional foi desenvolvida em um grupo de estudo de aplicações mobile no Centro Universitário Christus - UniChristus. O intuito era produzir um teste vocacional em versão mobile, com algumas funcionalidades que viessem a ser interessantes aos estudantes do pré vestibular. Atualmente apenas o teste encontra-se implementado, com 4 possíveis resultados: Saúde, Ciências Humanas, Exatas e Ciências Sociais. Em relação ao design, a temática foi baseada no céu e nuvens, incluindo tonalidades calmas de azul. A imagem utilizada na tela de login foi produzida com aquarela manualmente e melhorada com softwares de edição.",
+    "colors": ["#2D97C7", "#19BEF2", "#00CDF9", "#F2F2F2", "#8AC5E1"],
+    "screens": [
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fteste-vocacional%2F01.jpeg?alt=media&token=80e1bda1-5479-41d3-b060-c87c19d8b246",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fteste-vocacional%2F02.jpeg?alt=media&token=389cad3c-4896-4321-94b4-69c44107fb4f",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fteste-vocacional%2F03.jpeg?alt=media&token=3cb92614-0717-4967-a7cd-de667a4d19c8",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fteste-vocacional%2F04.jpeg?alt=media&token=30a4e440-11e9-495d-87c3-4621071a8f0f",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fteste-vocacional%2F05.jpeg?alt=media&token=c97b5d3a-6119-47e6-93db-3cb58cb1f87f",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fteste-vocacional%2F06.jpeg?alt=media&token=251aba16-8a6d-4165-bbee-3f70443b32a3",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fteste-vocacional%2F07.jpeg?alt=media&token=c3aec289-4c3a-4039-8a5e-6bb5c72ac8a4",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fteste-vocacional%2F08.jpeg?alt=media&token=5d48f3ad-00b4-41be-b41d-223e70414eb6"
+    ],
+    "icons": [
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2FTeste-vocacional%2F01.png?alt=media&token=e5801cae-3528-499e-b6ce-723efceddadc",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2FTeste-vocacional%2F02.png?alt=media&token=d8147c8f-a8c1-495b-9fb4-a86430b9bc7f",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2FTeste-vocacional%2F03.png?alt=media&token=77f9429e-4928-406f-b932-e27f5b535e23",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2FTeste-vocacional%2F04.png?alt=media&token=07dd663f-4117-4c7c-884f-14a7aea219b3"
+    ]
+  },
+  {
+    "id": "storemanager",
+    "title": "Store Manager",
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/thumbs%2F05.png?alt=media&token=14d93317-2a3b-4b5b-971f-4193d06e0dda",
+    "type": "Mobile Design",
+    "subtitle": "Um aplicativo mobile projetado para cadastrar os estabelecimentos de um usuário com localização.",
+    "detail": "A aplicação Store Manager foi projetada para um teste de desenvolvimento de software, cuja funcionalidade baseava-se em gerir os estabelecimentos pertencentes ao usuário. É possível cadastrar os estabelecimentos preenchendo alguns dados e inserindo a sua localização. Ao logar, é possível visualizar a lista de estabelecimentos inseridos, visualizando-se mais detalhes ao clicar. É possível editar e excluir o estabelecimento, com modais de confirmação. Além disso, foi desenvolvida uma tela para a funcionalidade que objetiva exibir os estabelecimentos presentes em um raio determinado de forma simplificada ao usuário.",
+    "colors": ["#18276C", "#20357E", "#394894", "#FDC224", "#FFCD3E"],
+    "screens": [
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fstore-manager%2Fscreens%2F01.png?alt=media&token=f7e0f143-b5db-40fe-a8f0-b8f198c5e50b",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fstore-manager%2Fscreens%2F02.png?alt=media&token=960cfb0f-2d9e-45fd-91ff-a684aa7ccb28",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fstore-manager%2Fscreens%2F03.png?alt=media&token=a9e57863-7d22-43c2-b8a3-25fde1a01055",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fstore-manager%2Fscreens%2F04.png?alt=media&token=b9736055-6719-48fe-9aa4-9141da6ea11b",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fstore-manager%2Fscreens%2F05.png?alt=media&token=ddbe8be0-4c71-4dfa-b10d-c2f9952650af",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fstore-manager%2Fscreens%2F06.png?alt=media&token=f544ce29-f0c9-4f15-a25e-15640e60103f"
+    ],
+    "icons": [
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2Fstore-manager%2F01.png?alt=media&token=dca2490b-6da2-4ceb-8677-80bb834fe15f",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2Fstore-manager%2F02.png?alt=media&token=2a0eb04d-a273-4733-940e-df9ebf2b6448",
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2Fstore-manager%2F03.png?alt=media&token=9150ffd3-9575-435d-a4e4-0412e17c83d4"
+    ]
+  }
 ]
