@@ -1,132 +1,185 @@
-.Titulos{
-    position: absolute; 
-    top: 150px; 
-    right: 300px; 
-    color: #ffffff;
-    font-family: 'Barlow Semi Condensed', sans-serif;
-    text-shadow: 2px 2px 8px #00000080;
-    text-align: right;
+.Titulos h2 {
+  font-size: 3.3em;
 }
 
-.Titulos h2{
-    font-size: 3.3em;
+.Titulos h4 {
+  font-size: 1.7em;
+}
+.Menu-title {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 30px;
+}
+.Image-main {
+  width: 100%;
+  border: 0px;
+  top: 0%;
+  left: 0%;
 }
 
-.Titulos h4{
-    font-size: 1.7em;
+.Container {
+  position: relative;
 }
-.Menu-title{
-    text-transform: uppercase;
-    text-align: center;
-    font-size: 30px;
+.Logo-detail {
+  display: inline-block;
+  width: 3vh;
+  padding-top: 0px;
 }
-.Image{
-    width: 100%;
-    position: relative;
-    -webkit-box-shadow: 0px 0px 36px rgba(0,0,0,0.75);
-    -moz-box-shadow: 0px 0px 36px rgba(0,0,0,0.75);
-    box-shadow: 0px 0px 36px rgba(0,0,0,0.75);
-    border: 0px;
+.Titles {
+  font-size: 4vh;
+  font-family: "Nunito", sans-serif;
+  color: #2bbffe;
+  display: inline-block;
+  margin: 2vh;
 }
-
-.Container{
-    position: relative;
+.Titulos-complete {
+  display: flex;
+  align-items: center;
+  justify-content: left;
 }
-.Logo-detail{
-    display: inline-block;
-    width: 60px;
-    padding-top: 0px;
-}
-.Titles{
-    font-size: 40px;
-    font-family: 'Barlow Semi Condensed', sans-serif;
-    color: #F2BBC570;
-    display: inline-block;
-}
-.Titulos-complete{
-    display: flex;
-    align-items: center;    
-    justify-content: center;
-}
-.Titulos-rhu{
-    align-items: center;
-    justify-content: center;
-    background-color: #D9D9D9;
-    -webkit-box-shadow: 0px 0px 36px rgba(0,0,0,0.75);
-    -moz-box-shadow: 0px 0px 36px rgba(0,0,0,0.75);
-    box-shadow: 0px 0px 36px rgba(0,0,0,0.75);
-    padding: 20px 200px;    
+.Titulos-rhu {
+  align-items: center;
+  justify-content: center;
+  background-color: #d9d9d9;
+  -webkit-box-shadow: 0px 0px 36px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 0px 36px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 36px rgba(0, 0, 0, 0.75);
+  padding: 20px 200px;
 }
 
-.Projects{
-    padding: 20px 200px;
-    display: flex;
-    flex:1;
-    justify-content: space-around;
+.Projects {
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+  padding: 3vh 0vh;
 }
 
-.Thumb-images{
-    width: 80%;
-    -webkit-box-shadow: 0px 0px 36px rgba(0,0,0,0.5);
-    -moz-box-shadow: 0px 0px 36px rgba(0,0,0,0.5);
-    box-shadow: 0px 0px 36px rgba(0,0,0,0.5); 
+.Thumb-images {
+  width: 100%;
+  border-top-left-radius: 2vh;
+  border-top-right-radius: 2vh;
 }
 
-.Box-thumb{
-    width: 32%;
-    opacity: 1;
-    transition: opacity .25s ease-in-out;
-    -moz-transition: opacity .25s ease-in-out;
-    -webkit-transition: opacity .25s ease-in-out;
+.Box-thumb {
+  width: 30%;
+  opacity: 1;
+  border-radius: 2vh;
+  background-color: #ffffff;
+  -webkit-box-shadow: 0px 0px 36px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0px 0px 36px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 0px 36px rgba(0, 0, 0, 0.1);
+  transition: opacity 0.25s ease-in-out;
+  -moz-transition: opacity 0.25s ease-in-out;
+  -webkit-transition: opacity 0.25s ease-in-out;
 }
 
 .Box-thumb:hover {
-    opacity: 0.5;
-    }
-
-.Box-thumb h4{
-    font-size: 30px;
-    font-family: 'Barlow Semi Condensed', sans-serif;
-    color: #F27E88;
-    text-transform: uppercase;
-    line-height: 0.1;
-}
-.Box-thumb h5{
-    font-size: 16px;
-    font-family: 'Barlow Semi Condensed', sans-serif;
-    color:#4C5459;
-    text-transform: uppercase;
+  opacity: 0.5;
 }
 
-.Rhu{
-    width: 60%;
-    border-radius: 50%;
+.Box-thumb h4 {
+  font-size: 2.8vh;
+  font-weight: 800;
+  font-family: "Nunito", sans-serif;
+  color: #fff;
+  background-color: #ff9471;
+  border-radius: 2vh;
+  padding: 0.3em;
+  text-transform: uppercase;
+  line-height: 3vh;
+  margin: 0;
 }
-.Link-port{
-    height: 60px;
-    margin: 20px 0px;
-}
-.Link-body{
-    color: #FFFFFF;
-    background-color: #F27E88;
-    border-radius: 30px;
-    padding: 20px 30px;
-    text-decoration: none;
-    transition: 0.5s;
-    display: inline ;    
-    text-align: right !important;
-    -webkit-box-shadow: 0px 0px 36px rgba(0,0,0,0.5);
-    -moz-box-shadow: 0px 0px 36px rgba(0,0,0,0.5);
-    box-shadow: 0px 0px 36px rgba(0,0,0,0.5); 
-    font-family: 'Barlow Semi Condensed', sans-serif;
-    font-weight: bold;
-}
-.Link-body:hover{
-    background-color: #FFFFFF;
-    color: #F27E88;
+.Box-thumb h5 {
+  font-size: 1.8vh;
+  font-weight: 500;
+  font-family: "Montserrat", sans-serif;
+  line-height: 3vh;
+  color: #4c5459;
+  text-transform: uppercase;
+  margin: 2vh 3vh;
 }
 
-.Link-body:active{
-    background-color: #FFFFFF;
-    color: #F27E88;
+.Rhu {
+  width: 60%;
+  border-radius: 50%;
+}
+.Link-port {
+  height: 60px;
+  margin: 20px 0px;
+}
+.Link-body {
+  color: #ffffff;
+  background-color: #f27e88;
+  border-radius: 30px;
+  padding: 20px 30px;
+  text-decoration: none;
+  transition: 0.5s;
+  display: inline;
+  text-align: right !important;
+  -webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+.Link-body:hover {
+  background-color: #ffffff;
+  color: #f27e88;
+}
+
+.Link-body:active {
+  background-color: #ffffff;
+  color: #f27e88;
+}
+
+.Thumb-profile {
+  width: 350px;
+  height: 350px;
+  border-radius: 200px;
+  margin: 20px;
+  -webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
+}
+
+.Align-profile-detail {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  padding: 0px 5%;
+}
+
+.Align-profile-div {
+  background-color: #d9d9d930;
+  -webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
+}
+
+h2 {
+  font-size: 3.3em;
+}
+
+h4 {
+  font-size: 1.7em;
+}
+
+.Text-header {
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+.Pipe-git {
+  font-size: 3vh;
+  color: #eb86b6;
+}
+
+.Body-index {
+}
+
+.Last-projects {
+  padding: 0vh 7vh;
+}
+.Align-text-thumb {
+  width: 100%;
 }

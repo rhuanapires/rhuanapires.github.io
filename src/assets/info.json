@@ -1,20 +1,5 @@
 [
   {
-    "id": "coronastatus",
-    "title": "Corona Status",
-    "thumb": "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/thumbs%2F06.png?alt=media&token=8b5b6424-3f55-42e0-970d-0590e0e2d8d6",
-    "type": "Mobile Design and Mobile Development",
-    "subtitle": "Uma aplicação mobile desenvolvida com React-Native para o acompanhamento dos casos de Corona Vírus no Mundo.",
-    "detail": "A aplicação Corona Status foi criada com intuito de visualizar os dados referentes ao número de casos, mortes e recuperados pela patologia em todo o mundo, com os dados divididos por país. Além disso, é possível visualizar os dados dos estados do Brasil. A logo foi desenhada e colorida digitalmente.",
-    "colors": ["#FF8383", "#FF9E80", "#A9A1FF", "#F3F3F3", "#4D4D4D"],
-    "screens": [
-      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fcorona-status%2F01.png?alt=media&token=84ba00de-ee32-41ea-ad1f-4a62449e7df7"
-    ],
-    "icons": [
-      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/thumbs%2F06.png?alt=media&token=8b5b6424-3f55-42e0-970d-0590e0e2d8d6"
-    ]
-  },
-  {
     "id": "personaltasks",
     "title": "Personal Tasks",
     "thumb": "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/thumbs%2F01.png?alt=media&token=b73e0c56-0229-4d51-8be0-273175704b1d",
@@ -129,6 +114,21 @@
       "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2Fstore-manager%2F01.png?alt=media&token=dca2490b-6da2-4ceb-8677-80bb834fe15f",
       "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2Fstore-manager%2F02.png?alt=media&token=2a0eb04d-a273-4733-940e-df9ebf2b6448",
       "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2Fstore-manager%2F03.png?alt=media&token=9150ffd3-9575-435d-a4e4-0412e17c83d4"
+    ]
+  },
+  {
+    "id": "coronastatus",
+    "title": "Corona Status",
+    "thumb": "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/thumbs%2F06.png?alt=media&token=8b5b6424-3f55-42e0-970d-0590e0e2d8d6",
+    "type": "Mobile Design and Mobile Development",
+    "subtitle": "Uma aplicação mobile desenvolvida com React-Native para o acompanhamento dos casos de Corona Vírus no Mundo.",
+    "detail": "A aplicação Corona Status foi criada com intuito de visualizar os dados referentes ao número de casos, mortes e recuperados pela patologia em todo o mundo, com os dados divididos por país. Além disso, é possível visualizar os dados dos estados do Brasil. A logo foi desenhada e colorida digitalmente.",
+    "colors": ["#FF8383", "#FF9E80", "#A9A1FF", "#F3F3F3", "#4D4D4D"],
+    "screens": [
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/projects%2Fcorona-status%2F01.png?alt=media&token=84ba00de-ee32-41ea-ad1f-4a62449e7df7"
+    ],
+    "icons": [
+      "https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/icons%2Fcorona-status%2F01.png?alt=media&token=f45af7cc-22f0-43ef-842a-0775e95943d4"
     ]
   }
 ]

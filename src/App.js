@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "./images/horizontallogo.png";
 import "./styles/styles.css";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import Home from "./pages/home";
@@ -7,36 +6,29 @@ import Monitoria from "./pages/monitoria";
 import Portfolio from "./pages/portfolio";
 import Aboutme from "./pages/aboutme/aboutme";
 import Detalhes from "./pages/portfolio/detalhes";
+import HeaderIndex from "./components/headerIndex";
 
 function App() {
   return (
     <div className="App">
+      <link
+        href="https://fonts.googleapis.com/css?family=Dancing+Script&display=swap"
+        rel="stylesheet"
+      ></link>
+      <link
+        href="https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed&display=swap"
+        rel="stylesheet"
+      />
+      <link
+        href="https://fonts.googleapis.com/css?family=Nunito:ital,wght@0,400;0,600;0,700;0,800;0,900;1,300;1,400;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet"
+      ></link>
+      <link
+        href="https://fonts.googleapis.com/css?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400;1,500&display=swap"
+        rel="stylesheet"
+      ></link>
       <Router>
-        <header className="App-header">
-          <div className="Menu">
-            <link
-              href="https://fonts.googleapis.com/css?family=Arizonia|Pacifico|Parisienne&display=swap"
-              rel="stylesheet"
-            />
-            <link
-              href="https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed&display=swap"
-              rel="stylesheet"
-            />
-            <div className="Link-img">
-              <Link to="/">
-                <img src={logo} className="Logo-main" alt="Rhuana Pires logo" />
-              </Link>
-            </div>
-            <nav>
-              <Link className="Link" to="/">
-                Home
-              </Link>
-              <Link className="Link" to="/portfolio">
-                Portfolio
-              </Link>
-            </nav>
-          </div>
-        </header>
+        <HeaderIndex></HeaderIndex>
         <body>
           <div class="Content">
             <Switch>
