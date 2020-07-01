@@ -16,7 +16,7 @@ function Home() {
   return (
     <div className="Container">
       <div>
-        <img src={Image} className="Image-main" alt="Neferpitou"></img>
+        <img src={Image} className="Image-main" alt="MainImage"></img>
       </div>
       <div className="Body-index">
         <div className="Last-projects">
@@ -27,14 +27,14 @@ function Home() {
             ))}
           </div>
           <div className="Link-port">
-            <Link className="Link-body" to="/portfolio">
-              &lt; ACESS PORTFOLIO &gt;
+            <Link className="btn effect01" to="/portfolio">
+              <span>&lt;ACESS&nbsp;PORTFOLIO&gt;</span>
             </Link>
           </div>
         </div>
-        <div>
+        {/* <div>
           <Profile></Profile>
-        </div>
+        </div> */}
       </div>
     </div>
   );

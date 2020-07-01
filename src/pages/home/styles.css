@@ -26,7 +26,7 @@
   padding-top: 0px;
 }
 .Titles {
-  font-size: 4vh;
+  font-size: 5vh;
   font-family: "Nunito", sans-serif;
   color: #2bbffe;
   display: inline-block;
@@ -78,16 +78,17 @@
 }
 
 .Box-thumb h4 {
-  font-size: 2.8vh;
-  font-weight: 800;
+  font-size: 3.3vh;
+  font-weight: 900;
   font-family: "Nunito", sans-serif;
-  color: #fff;
-  background-color: #ff9471;
+  background-image: linear-gradient(-225deg, #FFE29F 0%, #FFA99F 48%, #FF719A 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   border-radius: 2vh;
   padding: 0.3em;
   text-transform: uppercase;
   line-height: 3vh;
-  margin: 0;
+  margin: 2vh;
 }
 .Box-thumb h5 {
   font-size: 1.8vh;
@@ -103,35 +104,101 @@
   width: 60%;
   border-radius: 50%;
 }
-.Link-port {
-  height: 60px;
-  margin: 20px 0px;
-}
+
 .Link-body {
-  color: #ffffff;
-  background-color: #f27e88;
+  color: #fff;
+  background-image: linear-gradient(-225deg, #FFE29F 0%, #FFA99F 48%, #FF719A 100%);
   border-radius: 30px;
+  margin: 0px 40px;
   padding: 20px 30px;
   text-decoration: none;
-  transition: 0.5s;
   display: inline;
   text-align: right !important;
   -webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
   -moz-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
   box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
   font-family: "Montserrat", sans-serif;
-  font-weight: bold;
-}
-.Link-body:hover {
-  background-color: #ffffff;
-  color: #f27e88;
-}
-
-.Link-body:active {
-  background-color: #ffffff;
-  color: #f27e88;
+  font-weight: 500;
+  align-items: center;
+  transition: all 0.5s;
+  position: relative;
 }
 
+.btn {
+  letter-spacing: 0.1em;
+  cursor: pointer;
+  font-size: 2vh;
+  font-weight: 400;
+  line-height: 45px;
+  max-width: 40vh;
+  position: relative;
+  text-decoration: none;
+  text-transform: uppercase;
+  width: 100%;
+}
+.btn:hover {
+  text-decoration: none;
+}
+
+/*btn_background*/
+.effect01 {
+  color: #FFF;
+  border-radius: 4vh;
+  background-image: linear-gradient(-225deg, #FFE29F 0%, #FFA99F 48%, #FF719A 100%);
+  border-image-slice: 1;
+  background-color: #fff;
+  overflow: hidden;
+  position: relative;
+  transition: all 0.3s ease-in-out;
+  font-weight: 500;
+}
+.effect01:hover {
+  border: 4px solid #FFF;
+  border-radius: 4vh;
+  border-image-source: linear-gradient(-225deg, #FF719A 0%, #FFA99F 48%, #FFE29F 100%);
+  border-image-slice: 1;
+  background-image: linear-gradient(-225deg, #FF719A 0%, #FFA99F 48%, #FFE29F 100%);
+  position: relative;
+  overflow: hidden;
+  box-shadow:0px 0px 0px 4px #EEE inset;
+}
+
+/*btn_text*/
+.effect01 span {
+  transition: all 0.2s ease-out;
+  z-index: 2;
+}
+.effect01:hover span{
+  letter-spacing: 0.13em;
+  font-size: 2.2vh;
+  color: #eee;
+}
+
+/*highlight*/
+.effect01:after {
+  background: #FFF;
+  border: 4px solid #FFF;
+  background-image: none;
+  content: "";
+  height: 155px;
+  left: -75px;
+  opacity: .8;
+  position: absolute;
+  top: -50px;
+  -webkit-transform: rotate(35deg);
+          transform: rotate(35deg);
+  width: 50px;
+  transition: all 1s cubic-bezier(0.075, 0.82, 0.165, 1);/*easeOutCirc*/
+  z-index: 1;
+}
+.effect01:hover:after {
+  background: #FFF;
+  border: 20px solid #EEE;
+  opacity: 0;
+  left: 120%;
+  -webkit-transform: rotate(40deg);
+          transform: rotate(40deg);
+}
 .Thumb-profile {
   width: 350px;
   height: 350px;
@@ -167,6 +234,7 @@ h4 {
 .Text-header {
   align-items: flex-end;
   justify-content: space-between;
+  display: flex;
 }
 
 .Pipe-git {
@@ -182,4 +250,7 @@ h4 {
 }
 .Align-text-thumb {
   width: 100%;
+}
+*, *:before, *:after {
+	box-sizing: border-box;
 }

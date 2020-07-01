@@ -14,20 +14,19 @@ export default function HeaderIndex() {
           </Link>
         </div>
         <div className="Text-header">
-          <Link className="Link" to="/">
+          <Link className="btn-header btn-one" to="/">
             Home
           </Link>
-          <Link className="Link" to="/portfolio">
+          <Link className="btn-header btn-one" to="/portfolio">
             Portfolio
           </Link>
-          <Link className="Link" to="/aboutme">
-            AboutMe
+          <Link className="btn-header btn-one" to="/aboutme">
+            About&nbsp;Me
           </Link>
-          <i className="Pipe-git"> | </i>
-          <a className="Link" href="https://rhuanapires.github.io">
+          <a className="btn-header btn-one" href="https://rhuanapires.github.io">
             <FaGithubAlt />
           </a>
-          <a className="Link" href="https://www.linkedin.com/in/rhuana-pires/">
+          <a className="btn-header btn-one" href="https://www.linkedin.com/in/rhuana-pires/">
             <FaLinkedin />
           </a>
         </div>

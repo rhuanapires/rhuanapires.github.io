@@ -130,22 +130,10 @@
 }
 .Link-port {
   height: 60px;
-  margin: 20px 0px;
-}
-.Link-body {
-  color: #ffffff;
-  background-color: #f27e88;
-  border-radius: 30px;
-  padding: 20px 30px;
-  text-decoration: none;
-  transition: 0.5s;
-  display: inline;
-  text-align: right !important;
-  -webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
-  -moz-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
-  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
-  font-family: "Barlow Semi Condensed", sans-serif;
-  font-weight: bold;
+  margin: 2.5em 0em 2em 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .Link-body:hover {
   background-color: #ffffff;
