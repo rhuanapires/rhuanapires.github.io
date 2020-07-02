@@ -32,9 +32,9 @@ function Home() {
             </Link>
           </div>
         </div>
-        {/* <div>
+        <div>
           <Profile></Profile>
-        </div> */}
+        </div>
       </div>
     </div>
   );

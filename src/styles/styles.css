@@ -85,7 +85,7 @@ body {
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
   font-size: 1.3vw;
-  letter-spacing: 0.10em;
+  letter-spacing: 0.1em;
 }
 
 .Link:hover {
@@ -119,7 +119,7 @@ body {
   padding: 0vh 7vh;
   z-index: 99;
   width: 100%;
-  background-color: #FFFFFF30;
+  background-color: #ffffff30;
 }
 
 body {
@@ -129,27 +129,24 @@ body {
 
 footer {
   width: 100%;
+  display: flex;
   bottom: 0;
-  background-color: #282c34;
-  text-align: center;
-  -webkit-box-shadow: 0px 0px 36px -1px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: 0px 0px 36px -1px rgba(0, 0, 0, 0.75);
-  box-shadow: 0px 0px 36px -1px rgba(0, 0, 0, 0.75);
-  align-content: center;
-  justify-content: center;
-}
-
-footer p {
-  color: #eee;
+  padding: 5vh 7vh 2vh;
+  justify-content: space-between;
   align-items: center;
-  justify-content: center;
-  text-align: center;
-  font-size: 16px;
-  font-family: "Montserrat", sans-serif;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/footer.png?alt=media&token=1157192a-8213-4a28-8f2a-b92310148445");
 }
-
-footer img {
-  max-width: 5%;
+footer p {
+  color: #ffffff;
+  align-items: center;
+  text-transform: uppercase;
+  justify-content: center;
+  text-align: left;
+  text-shadow: 2px 2px 4px #00000060;
+  font-size: 1.8vh;
+  font-family: "Montserrat", sans-serif;
 }
 
 hr {
@@ -230,59 +227,59 @@ footer .footer-elements {
   }
 }
 .btn-one {
-	color: #FFF;
-	transition: all 0.3s;
-	position: relative;
+  color: #fff;
+  transition: all 0.3s;
+  position: relative;
 }
 .btn-one span {
-	transition: all 0.3s;
+  transition: all 0.3s;
 }
 .btn-one::before {
-	content: '';
-	position: absolute;
-	bottom: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	z-index: 1;
-	opacity: 0;
-	transition: all 0.3s;
-	border-top-width: 0.2vh;
-	border-bottom-width: 0.2vh;
-	border-top-style: solid;
-	border-bottom-style: solid;
-	border-top-color: rgba(255,255,255,0.5);
-  border-bottom-color: rgba(255,255,255,0.5);
-  background-color: rgba(255,255,255,0.1);
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  opacity: 0;
+  transition: all 0.3s;
+  border-top-width: 0.2vh;
+  border-bottom-width: 0.2vh;
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-top-color: rgba(255, 255, 255, 0.5);
+  border-bottom-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.1);
   color: #fff;
-	transform: scale(0.1, 1);
+  transform: scale(0.1, 1);
 }
 .btn-one:hover span {
-	letter-spacing: 2vh;
+  letter-spacing: 2vh;
 }
 .btn-one:hover::before {
-	opacity: 1;	
-	transform: scale(1, 1);	
+  opacity: 1;
+  transform: scale(1, 1);
 }
 .btn-one::after {
-	content: '';
-	position: absolute;
-	bottom: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	z-index: 1;
-	transition: all 0.3s;
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  transition: all 0.3s;
 }
 .btn-one:hover::after {
-	opacity: 0;	
-	transform: scale(0.1, 1);
+  opacity: 0;
+  transform: scale(0.1, 1);
 }
 
 .btn-header {
-	text-align: center;
+  text-align: center;
   cursor: pointer;
-  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-family: "Barlow Semi Condensed", sans-serif;
   font-size: 2.5vh;
   text-decoration: none;
   padding: 2vh;
@@ -290,4 +287,17 @@ footer .footer-elements {
   color: #eb86b6;
   justify-content: center;
   align-items: center;
+}
+.btn-footer {
+  text-align: center;
+  cursor: pointer;
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-size: 3.5vh;
+  text-decoration: none;
+  padding: 2vh;
+  font-weight: 500;
+  color: #ffffff;
+  justify-content: center;
+  align-items: center;
+  text-shadow: 2px 2px 4px #000000;
 }

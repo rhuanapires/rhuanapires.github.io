@@ -7,6 +7,7 @@ import Portfolio from "./pages/portfolio";
 import Aboutme from "./pages/aboutme/aboutme";
 import Detalhes from "./pages/portfolio/detalhes";
 import HeaderIndex from "./components/headerIndex";
+import { FaGithubAlt, FaLinkedin } from "react-icons/fa";
 
 function App() {
   return (
@@ -49,7 +50,20 @@ function App() {
             <p>
               © 2020 Developed by <b>Rhuana Pires</b>
             </p>
-            <hr></hr>
+            <div>
+              <a
+                className="btn-footer btn-one"
+                href="https://rhuanapires.github.io"
+              >
+                <FaGithubAlt />
+              </a>
+              <a
+                className="btn-footer btn-one"
+                href="https://www.linkedin.com/in/rhuana-pires/"
+              >
+                <FaLinkedin />
+              </a>
+            </div>
           </footer>
         </body>
       </Router>
