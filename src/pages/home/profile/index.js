@@ -8,9 +8,16 @@ export default function Profile() {
   return (
     <div className="Align-profile-div">
       <div className="Align-profile-detail">
-        <img src={profile} className="Thumb-profile" />
-        <div>
+        <div className="Thumb-profile-view">
+          <img src={profile} className="Thumb-profile" />
+        </div>
+        <div className="Align-text-profile">
           <h2>Rhuana Pires</h2>
+          <h4>
+            Sou uma UI/UX designer com habilidades em desenvolvimento web/mobile
+            que mora em Fortaleza - Ceará. Totalmente apaixonada por
+            prototipação e desenvolvimento mobile.
+          </h4>
         </div>
       </div>
     </div>

@@ -5,6 +5,7 @@ import { Link } from "react-router-dom";
 import ThumbMain from "../../components/thumbMain";
 import Titles from "../../components/titles";
 import Profile from "./profile";
+import Detail from "./detail";
 
 let lista = require("../../assets/info.json");
 
@@ -34,6 +35,7 @@ function Home() {
         </div>
         <div>
           <Profile></Profile>
+          <Detail></Detail>
         </div>
       </div>
     </div>
