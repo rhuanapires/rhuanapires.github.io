@@ -238,7 +238,7 @@
 .Thumb-profile-3 {
   align-items: center;
   justify-content: center;
-  width: 50%;
+  width: 40%;
 }
 
 .Thumb-profile-view {
@@ -260,9 +260,7 @@
   flex: 1;
   align-items: center;
   justify-content: center;
-  padding: 5vh 0vh;
-  margin: 3vh;
-
+  margin: 3vh 0vh;
 }
 
 .Align-profile-div {
@@ -283,13 +281,13 @@
 .Align-profile-div-2 h2 {
   font-size: 5vh;
   font-family: "Nunito", sans-serif;
-  color: #000;
+  color: #e996a9;
   margin: 0;
 }
 .Align-profile-div-2 h4 {
   font-size: 2.2vh;
   font-family: "Montserrat", sans-serif;
-  color: #000;
+  color: #4c5459;
   font-weight: 500;
   line-height: 5vh;
   letter-spacing: 0.1vh;
@@ -311,8 +309,9 @@ h4 {
 h3 {
   font-size: 3vh;
   font-family: "Nunito", sans-serif;
-  color: #000;
-  margin: 0
+  color: #f29d80;
+  text-align: center;
+  margin: 0;
 }
 
 .Text-header {

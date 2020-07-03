@@ -301,7 +301,7 @@ footer .footer-elements {
   align-items: center;
   text-shadow: 2px 2px 4px #000000;
 }
-.View-icons{
+.View-icons {
   margin: 2vh 0vh;
   width: 100%;
   display: flex;
@@ -311,15 +311,36 @@ footer .footer-elements {
 }
 
 .btn-prog {
-  color: #c0c0c0;
-  transition: all 1s;
+  fill: #c0c0c0;
+  transition: all 0.5s;
   position: relative;
+  padding: 0vh 1vh;
   width: 8vh;
   height: 10vh;
   justify-content: space-between;
   align-items: center;
 }
+
+.figma {
+  color: #c0c0c0;
+  transition: all 0.5s;
+  position: relative;
+  width: 6vh;
+  height: 8vh;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .btn-prog:hover {
+  color: #000000;
+  fill: #000000;
+  position: relative;
+  width: 10vh;
+  height: 10vh;
+  justify-content: space-between;
+  align-items: center;
+}
+.figma:hover {
   color: #000000;
   position: relative;
   width: 8vh;
