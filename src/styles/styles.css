@@ -301,3 +301,29 @@ footer .footer-elements {
   align-items: center;
   text-shadow: 2px 2px 4px #000000;
 }
+.View-icons{
+  margin: 2vh 0vh;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btn-prog {
+  color: #c0c0c0;
+  transition: all 1s;
+  position: relative;
+  width: 8vh;
+  height: 10vh;
+  justify-content: space-between;
+  align-items: center;
+}
+.btn-prog:hover {
+  color: #000000;
+  position: relative;
+  width: 8vh;
+  height: 10vh;
+  justify-content: space-between;
+  align-items: center;
+}

@@ -228,7 +228,17 @@
 .Thumb-profile {
   align-items: center;
   justify-content: center;
-  width: 100%;
+  width: 80%;
+}
+.Thumb-profile-2 {
+  align-items: center;
+  justify-content: center;
+  width: 70%;
+}
+.Thumb-profile-3 {
+  align-items: center;
+  justify-content: center;
+  width: 50%;
 }
 
 .Thumb-profile-view {
@@ -244,10 +254,23 @@
   justify-content: center;
   padding: 5vh 0vh;
 }
+.Align-profile-detail-2 {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+  padding: 5vh 0vh;
+  margin: 3vh;
+
+}
 
 .Align-profile-div {
   padding: 0vh 7vh;
   background-image: url("https://firebasestorage.googleapis.com/v0/b/molten-amulet-237116.appspot.com/o/profile.png?alt=media&token=9ec08385-7937-4def-b17a-7626b9ea2995");
+  background-repeat: no-repeat;
+  background-clip: border-box;
+  background-size: auto 100%;
   align-items: center;
   justify-content: center;
 }
@@ -258,9 +281,10 @@
   justify-content: center;
 }
 .Align-profile-div-2 h2 {
-  font-size: 7vh;
+  font-size: 5vh;
   font-family: "Nunito", sans-serif;
   color: #000;
+  margin: 0;
 }
 .Align-profile-div-2 h4 {
   font-size: 2.2vh;
@@ -271,7 +295,7 @@
   letter-spacing: 0.1vh;
 }
 h2 {
-  font-size: 7vh;
+  font-size: 5vh;
   font-family: "Nunito", sans-serif;
   color: #eee;
 }
@@ -283,6 +307,12 @@ h4 {
   font-weight: 500;
   line-height: 5vh;
   letter-spacing: 0.1vh;
+}
+h3 {
+  font-size: 3vh;
+  font-family: "Nunito", sans-serif;
+  color: #000;
+  margin: 0
 }
 
 .Text-header {
@@ -314,5 +344,10 @@ h4 {
 .Align-text-profile {
   padding: 5vh 0vh 5vh 7vh;
   text-align: left;
-  width: 60%;
+  width: 50%;
+}
+.Align-text-profile-2 {
+  padding: 5vh 7vh 5vh 0vh;
+  text-align: right;
+  width: 50%;
 }
