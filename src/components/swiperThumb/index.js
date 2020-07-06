@@ -6,24 +6,23 @@ import 'swiper/css/swiper.css';
 const Gallery = ({screens, heightThumb}) => {
   console.log(heightThumb);
     const params = {
-      effect: 'coverflow',
-      grabCursor: true,
-      centeredSlides: true,
-      slidesPerView: '4',
+      slidesPerView: 3,
+      spaceBetween: 250,
       loop: true,
-      spaceBetween: 100,
-      coverflowEffect: {
-        rotate: 20,
-        stretch: 0,
-        depth: 100,
-        modifier: 1,
-        slideShadows: true
+      autoplay: {
+        delay: 2000,
+        disableOnInteraction: false
       },
       navigation: {
         nextEl: '.swiper-button-next',
-        prevEl: '.swiper-button-prev',
+        prevEl: '.swiper-button-prev'
+      },
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
       }
     }
+
 
   return (
     <Swiper {...params}>

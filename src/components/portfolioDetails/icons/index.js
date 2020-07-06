@@ -6,8 +6,16 @@ import 'swiper/css/swiper.css';
 
   const params = {
     slidesPerView: 3,
-    spaceBetween: 150,
+    spaceBetween: 250,
     loop: true,
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev'
+    },
+    autoplay: {
+      delay: 2500,
+      disableOnInteraction: false
+    },
     pagination: {
       el: '.swiper-pagination',
       clickable: true,

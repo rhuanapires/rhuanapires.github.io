@@ -6,6 +6,10 @@ import ThumbMain from "../../components/thumbMain";
 import Titles from "../../components/titles";
 import Profile from "./profile";
 import Detail from "./detail";
+import HeaderIndex from "../../components/headerIndex";
+import Bounce from "react-reveal/Bounce"
+import Fade from "react-reveal/Fade"
+
 
 let lista = require("../../assets/info.json");
 
@@ -15,13 +19,16 @@ lista = lista.filter((item, index) => index >= length); // filtrando os 3 ultimo
 
 function Home() {
   return (
+    <div>
+    <HeaderIndex/>
     <div className="Container">
       <div>
-        <img src={Image} className="Image-main" alt="MainImage"></img>
+        <Fade duration={1000}><img src={Image} className="Image-main" alt="MainImage"></img></Fade>
       </div>
       <div className="Body-index">
         <div className="Last-projects">
-          <Titles titulo="Latest Works" />
+          <Bounce><Titles titulo="Latest Works" /></Bounce>
+          <Fade duration={1500}>
           <div className="Projects">
             {lista.map((item) => (
               <ThumbMain item={item} key={item.id} />
@@ -31,13 +38,14 @@ function Home() {
             <Link className="btn effect01" to="/portfolio">
               <span>&lt;ACESS&nbsp;PORTFOLIO&gt;</span>
             </Link>
-          </div>
+          </div></Fade>
         </div>
         <div>
           <Profile></Profile>
           <Detail></Detail>
         </div>
       </div>
+    </div>
     </div>
   );
 }

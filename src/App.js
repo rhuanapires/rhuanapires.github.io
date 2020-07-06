@@ -6,8 +6,9 @@ import Monitoria from "./pages/monitoria";
 import Portfolio from "./pages/portfolio";
 import Aboutme from "./pages/aboutme/aboutme";
 import Detalhes from "./pages/portfolio/detalhes";
-import HeaderIndex from "./components/headerIndex";
 import { FaGithubAlt, FaLinkedin } from "react-icons/fa";
+import Fade from "react-reveal/Fade"
+
 
 function App() {
   return (
@@ -29,7 +30,7 @@ function App() {
         rel="stylesheet"
       ></link>
       <Router>
-        <HeaderIndex></HeaderIndex>
+
         <body>
           <div class="Content">
             <Switch>
@@ -46,6 +47,7 @@ function App() {
               </Route>
             </Switch>
           </div>
+          <Fade duration={1000} delay={500}>
           <footer className="Footer">
             <p>
               © 2020 Developed by <b>Rhuana Pires</b>
@@ -53,7 +55,7 @@ function App() {
             <div>
               <a
                 className="btn-footer btn-one"
-                href="https://rhuanapires.github.io"
+                href="https://www.github.com/rhuanapires"
               >
                 <FaGithubAlt />
               </a>
@@ -65,6 +67,7 @@ function App() {
               </a>
             </div>
           </footer>
+          </Fade>
         </body>
       </Router>
     </div>

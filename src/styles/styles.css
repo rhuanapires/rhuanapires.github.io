@@ -9,6 +9,10 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
+a{
+  text-align: center;
+}
+
 .Content {
   flex: 1 0 auto;
   padding: var(--space) var(--space) 0;
@@ -24,7 +28,6 @@ body {
 }
 
 .App {
-  text-align: center;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
@@ -141,12 +144,10 @@ footer {
 footer p {
   color: #ffffff;
   align-items: center;
-  text-transform: uppercase;
   justify-content: center;
   text-align: left;
-  text-shadow: 2px 2px 4px #00000060;
-  font-size: 1.8vh;
-  font-family: "Montserrat", sans-serif;
+  font-size: 2.2vh;
+  font-family: "Nunito", sans-serif;
 }
 
 hr {
@@ -279,7 +280,8 @@ footer .footer-elements {
 .btn-header {
   text-align: center;
   cursor: pointer;
-  font-family: "Barlow Semi Condensed", sans-serif;
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: 0.2vh;
   font-size: 2.5vh;
   text-decoration: none;
   padding: 2vh;
@@ -287,6 +289,8 @@ footer .footer-elements {
   color: #eb86b6;
   justify-content: center;
   align-items: center;
+  text-shadow: 2px 2px 4px #00000020;
+
 }
 .btn-footer {
   text-align: center;
@@ -314,7 +318,6 @@ footer .footer-elements {
   fill: #c0c0c0;
   transition: all 0.5s;
   position: relative;
-  padding: 0vh 1vh;
   width: 8vh;
   height: 10vh;
   justify-content: space-between;
@@ -332,8 +335,8 @@ footer .footer-elements {
 }
 
 .btn-prog:hover {
-  color: #000000;
-  fill: #000000;
+  color: #eb86b6;
+  fill: #eb86b6;
   position: relative;
   width: 10vh;
   height: 10vh;
@@ -341,7 +344,7 @@ footer .footer-elements {
   align-items: center;
 }
 .figma:hover {
-  color: #000000;
+  color: #eb86b6;
   position: relative;
   width: 8vh;
   height: 10vh;

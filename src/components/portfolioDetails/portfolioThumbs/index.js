@@ -10,6 +10,7 @@ function PortfolioThumbs({screens, title, heightThumb}){
         <Gallery screens={screens} heightThumb={heightThumb}/>
     </div>
     </div>
+
 }
 
 export default PortfolioThumbs;
