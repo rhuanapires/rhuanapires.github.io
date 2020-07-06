@@ -18,7 +18,7 @@ export default function Profile() {
         <div className="Align-text-profile">
           <h2>Rhuana Pires</h2>
           <h4>
-            Sou uma UI/UX designer com habilidades em desenvolvimento web/mobile
+            Sou uma desenvolvedora web/mobile com aptidão em UI/UX design
             que mora em Fortaleza - Ceará. Totalmente apaixonada por
             prototipação e desenvolvimento mobile.
           </h4>
